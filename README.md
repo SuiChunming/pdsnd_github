@@ -20,5 +20,5 @@ Main script (function):
 1) bikeshare_2_CSUI.py
 
 ### Credits
-This project is inpired by https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/a0828bef-066b-4c29-8184-752ff1d2300c and the reference threrin
+This project is inpired by https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/a0828bef-066b-4c29-8184-752ff1d2300c and the references threrin
 
