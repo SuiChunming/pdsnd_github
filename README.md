@@ -10,11 +10,13 @@ Udacity Webcourse Bikeshare Date Analysis Project
 In this project, a Python code script was coded to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. The users can use the code to import the data and answer interesting questions about it by computing descriptive statistics.
 
 ### Files used
-input database:
+
+Input database:
 1) chicago.csv
 2) new_york_city.csv
 3) washington.csv
-main script:
+
+Main script (function):
 1) bikeshare_2_CSUI.py
 
 ### Credits
